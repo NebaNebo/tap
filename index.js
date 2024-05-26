@@ -35,6 +35,7 @@ async function submitTaps() {
     }
 }
 
+
 // Function to login and retrieve auth token
 async function loginBot() {
     try {
